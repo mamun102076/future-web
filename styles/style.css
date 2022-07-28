@@ -24,4 +24,15 @@
     margin-top: -50px;
     z-index: 1;
 }
+.social-links a{
+    background-color: #242424;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 5px;
+}
 
