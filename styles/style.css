@@ -7,7 +7,6 @@
 }
 .overlay{
    position: relative;
-   
 }
 .overlay::after{
     position: absolute;
